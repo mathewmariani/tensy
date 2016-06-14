@@ -1,3 +1,6 @@
 [submodule "lest"]
 	path = lest
 	url = https://github.com/martinmoene/lest
+[submodule "tests/lest"]
+	path = tests/lest
+	url = https://github.com/martinmoene/lest
